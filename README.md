@@ -8,7 +8,6 @@
 - 🧠 Deep learning researcher — 🥉 **3rd place** at BME TDK Scientific Conference 2025
 - 🛠️ Passionate about clean architecture, CI/CD, and turning messy manual processes into automated pipelines
 - 🎓 B.Sc. Computer Engineering @ Budapest University of Technology and Economics
-- 📍 Based in Budapest, open to relocation
 - 🔍 Currently open to new opportunities
 
 <br>
